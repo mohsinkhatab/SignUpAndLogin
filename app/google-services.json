@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525011750575",
+    "firebase_url": "https://signupandlogin-1234.firebaseio.com",
+    "project_id": "signupandlogin-1234",
+    "storage_bucket": "signupandlogin-1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525011750575:android:a1e9065bb1d0f7af",
+        "android_client_info": {
+          "package_name": "com.example.mohsin.signupandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525011750575-iaklmrun9vgghnq42jlq340rl9244ikp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohsin.signupandlogin",
+            "certificate_hash": "4fe47a9a495f0a567e311dbbf49ab77981248d81"
+          }
+        },
+        {
+          "client_id": "525011750575-l1q0enodm3aorivlf0jfcalq3it04mn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbowq80lZPGXDPxqaKqZrg0uinbiBtcpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525011750575-l1q0enodm3aorivlf0jfcalq3it04mn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
